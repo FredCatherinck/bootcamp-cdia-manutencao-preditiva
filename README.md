@@ -17,5 +17,3 @@ Tipos de falha considerados:
 - **FA**: Falha Aleatória  
 
 ---
-
-## 📂 Estrutura do Projeto
